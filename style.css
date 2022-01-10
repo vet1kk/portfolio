@@ -84,6 +84,7 @@ body {
 
 .user-image {
   margin: 0 0 32px;
+
   text-align: center;
 }
 
@@ -173,7 +174,6 @@ body {
   padding: 40px 0;
   background-color: #00417d;
   color: #ffffff;
-  
 }
 .page-footer .container {
   text-align: center;
@@ -185,7 +185,6 @@ body {
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
-  
 }
 
 .footer-email {
